@@ -1,0 +1,4 @@
+# Modo productivo: Firestore + Gemini File Search
+-r requirements.txt
+google-genai==2.14.0
+google-cloud-firestore==2.20.0
